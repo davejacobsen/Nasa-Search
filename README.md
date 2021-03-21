@@ -5,8 +5,9 @@ Search for images from NASA and view details about each image.
 
 ***App Demo***
 
-<img src="Demo/NasaSearchDemo.gif" width="300">
+*gif format sacrifices some visual app smoothness quality
 
+<img src="Demo/NasaSearchDemo.gif" width="300">
 
 ***Demo Highlights***
 
